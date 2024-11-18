@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  swati-helm:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-11-18T12:49:16.981967+01:00"
+    description: A Helm chart for Kubernetes
+    digest: 0799adab39178b3dcf1bdc164ec64471dc7a369138f1a76a948599e71015f4e7
+    name: swati-helm
+    type: application
+    urls:
+    - swati-helm-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-11-18T12:49:16.981502+01:00"
